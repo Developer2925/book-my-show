@@ -12,11 +12,12 @@
 /*
     PAGES
 
-    1. Home 
-    2. Movie
-    3. Categories
-    4. Authentication
-    5. Rzor Pay Payment Gateway
+    1. Home path="/"
+    2. Movie path="/movie/:id"
+    3. Plays path="/plays"
+    4. Categories
+    5. Authentication
+    6. Rzor Pay Payment Gateway - On Movie page: path="/movie/:id" 
 */
 
 /*
